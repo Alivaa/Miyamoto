@@ -2,11 +2,11 @@
 const DiscordRSS = require("discord.rss");
 const Discord = require("discord.js");
 const client = new Discord.Client();
+const config = require('./config.json');
 
 //SECRET
-const token = "Your Token";
-const prefix = ">";
-const prefixh = ">help ";
+const token = config.token;
+const prefix = config.prefix;
 
 //OWNER USER
 const owner = "";
