@@ -52,8 +52,7 @@ client.on("message", async msg => {
 
   //COMMANDS : HELP
   if (
-    msg.content.toLowerCase() === prefix + "help" ||
-    msg.content.toLowerCase() == client.user.tag
+    msg.content.toLowerCase() === prefix + "help"
   ) {
     const embed = new Discord.RichEmbed()
       .setColor("#e047ff")
