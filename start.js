@@ -10,6 +10,9 @@ const prefix = config.prefix;
 //OWNER USER
 const owner = "";
 
+//DATABASE ADDED
+const databaseadded = "";
+
 //PATREON USER
 const userpatreon = "";
 
