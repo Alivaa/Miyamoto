@@ -1,0 +1,40 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "miyamoto-bot",
+  "version": "1.0",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "discord.js": "^11.5.1",
+    "discord.rss": "^5.0.3",
+    "superagent": "^5.1.0",
+    "wreck": "^14.2.0",
+    "boom": "^7.3.0",
+    "bourne": "^1.1.2",
+    "hoek": "^6.1.3",
+    "left-pad": "^1.3.0",
+    "lockfile": "^1.0.4",
+    "imghash": "^0.0.4",
+    "request": "^2.88.0",
+    "jimp": "^0.8.5",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
