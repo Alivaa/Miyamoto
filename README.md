@@ -20,7 +20,7 @@
 ## Permissions
 **The bot requires certain permissions, which you are prompted for on the invite screen. Each permission has a reason for being required, explained below.**
 
-| **Permission | Reason** |
+| **Permission** | **Reason** |
 | :---: | :---: |
 | **Read messages** | **Detect when you use commands** |
 | **Send messages** | **Respond when the bot send autopost** |
