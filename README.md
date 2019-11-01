@@ -27,7 +27,7 @@
 | **Embed links** | **Respond when the bot send autopost with embed links** |
 
 ## Support
-**You don't know how to use bots. Please visit my [support server discord](https://discord.gg/zGmNyk7).**
+**You don't know how to use bots. Please visit my [support server](https://discord.gg/zGmNyk7).**
 
 ## Patreon
 **You want to have additional features, Join my [Patreon](https://www.patreon.com/discordanime)**
@@ -37,7 +37,6 @@
 1. **[Discord.JS](https://discord.js.org/)**
 1. **synzen**
 1. **All Patreon Support**
- 1. **Liva**
  
 ## License
 **Copyright © 2019 | [The full license can be found here.](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE)**
