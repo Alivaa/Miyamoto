@@ -30,7 +30,7 @@
 **You don't know how to use bots. Please visit my [support server](https://discord.gg/zGmNyk7).**
 
 ## Patreon
-**You want to have additional features, Join my [Patreon](https://www.patreon.com/discordanime)**
+**You want to have additional features, Join my [Patreon](https://www.patreon.com/discordanime).**
 
 ## Special Thanks
 1. **[hanahaneul](https://github.com/hanahaneull)**
