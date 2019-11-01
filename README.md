@@ -2,4 +2,14 @@
 **Miyamoto is a discord bot that develops autopost pictures.**
 
 ## Using Miyamoto Bot
-**Just one click and you can add Mantaro to your own server and enjoy its full feature set!
+**Just one [click](https://discordapp.com/oauth2/authorize?client_id=637282220020858902&permissions=12659727) and you can add Miyamoto to your own server and enjoy its full feature set!**
+
+## Features Autopost
+> Cute Anime
+> Lewd Anime
+> Memes and Shitposting
+> Korean Idol
+> Japan Idol
+> more...
+
+## 
