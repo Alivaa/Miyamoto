@@ -33,6 +33,6 @@ You don't know how to use bots. Please visit my [support server discord](https:/
 
 ## Special Thanks
 1. [hanahaneul](https://github.com/hanahaneull)
-1. Discord.JS(https://discord.js.org/)
+1. [Discord.JS](https://discord.js.org/)
 1. synzen
 1. All Patreon Support
