@@ -5,9 +5,9 @@
   "name": "miyamoto-bot",
   "version": "1.0",
   "description": "A simple Node app built on Express, instantly up and running.",
-  "main": "start.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node start.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.16.4",
