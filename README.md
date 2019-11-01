@@ -37,6 +37,7 @@
 1. **[Discord JS](https://discord.js.org/)**
 1. **synzen**
 1. **All Patreon Support**
- 
+2. **Liva**
+
 ## License
 **Copyright © 2019 | [The full license can be found here.](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE)**
