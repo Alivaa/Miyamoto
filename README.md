@@ -8,8 +8,8 @@
 * **Cute Anime**
 * **Lewd Anime**
 * **Memes and Shitposting**
-* **Korean Idol**
-* **Japan Idol**
+* **K-Pop Pictures**
+* **Japan Idol Pictures**
 * **and more...**
 
 ## 
