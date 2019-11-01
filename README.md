@@ -13,15 +13,15 @@
 * **and more...**
 
 ## Setup
-Use **`>setup [name]`** in the channel to create autopost.
+**Use `>setup [name]` in the channel to create autopost.**
 
-Example : **`>setup cute`**
+**Example : `>setup cute`**
 
 ## Permissions
 **The bot requires certain permissions, which you are prompted for on the invite screen. Each permission has a reason for being required, explained below.**
 
-| Permission | Reason |
-| --- | --- |
+| **Permission | Reason** |
+| :---: | :---: |
 | **Read messages** | **Detect when you use commands** |
 | **Send messages** | **Respond when the bot send autopost** |
 | **Embed links** | **Respond when the bot send autopost with embed links** |
@@ -40,4 +40,4 @@ Example : **`>setup cute`**
  1. **Liva**
  
 ## License
-Copyright © 2019 | **[The full license can be found here.](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE)**
+**Copyright © 2019 | [The full license can be found here.](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE)**
