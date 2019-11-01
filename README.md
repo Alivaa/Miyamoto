@@ -25,6 +25,11 @@ The bot requires certain permissions, which you are prompted for on the invite s
 | Send messages	| Respond when the bot send autopost  |
 | Embed links	| Respond when the bot send autopost with embed links  |
 
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 ## Support
 You don't know how to use bots. Please visit my [support server discord](https://discord.gg/zGmNyk7).
 
