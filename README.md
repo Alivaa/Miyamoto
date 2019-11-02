@@ -33,11 +33,11 @@
 **You want to have additional features, Support my [Patreon](https://www.patreon.com/discordanime).**
 
 ## Special Thanks
-1. **[hanahaneul](https://github.com/hanahaneull)**
-1. **[Discord JS](https://discord.js.org/)**
-1. **Ruri**
-1. **synzen**
-1. **All Patreon Support**
+**1.** **[hanahaneul](https://github.com/hanahaneull)**
+**1.** **[Discord JS](https://discord.js.org/)**
+**1.** **Ruri**
+**1.** **synzen**
+**1.** **All Patreon Support**
 
 ## License
 **Copyright © 2019 | [The full license can be found here](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE).**
