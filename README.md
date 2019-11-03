@@ -36,7 +36,6 @@
 1. **[hanahaneul](https://github.com/hanahaneull)**
 1. **[Discord JS](https://discord.js.org/)**
 1. **Ruri**
-1. **synzen**
 1. **All Patreon Support**
 
 ## License
