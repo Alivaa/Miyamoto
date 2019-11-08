@@ -168,7 +168,7 @@ client.on("message", async msg => {
     //COMMANDS : PATREON
   } else if (msg.content.toLocaleLowerCase() === prefix + "patreon") {
     msg.channel.send(
-      "<:patreon:638651812496408576>  **Patreon Link :**\n**<https://www.patreon.com/discordanime> **"
+      "<:patreon:638651812496408576>  **Patreon Link :**\n**https://www.patreon.com/discordanime **"
     );
 
     //COMANDS : SETUP CUTE
