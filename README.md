@@ -35,11 +35,11 @@
 ## Special Thanks
 1. **[hanahaneul](https://github.com/hanahaneull)**
 1. **[Discord JS](https://discord.js.org/)**
-1. **Ruri**
+1. **[Ruri](https://github.com/KurokuTetsuya/)**
 1. **All Patreon Support**
 
 ## Self-hosting
 **This code is for reference-only and most of it is not up-to-date. This is not functional and we do not offer any support for self-hosting.**
 
 ## License
-[The full license can be found here](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE).**
+**[The full license can be found here](https://github.com/AlivaDiscord/Miyamoto/blob/master/LICENSE).**
