@@ -8,7 +8,6 @@
   "dependencies": {
     "express": "^4.16.4",
     "discord.js": "^11.5.1",
-    "discord.rss": "^5.0.3",
     "superagent": "^5.1.0",
     "wreck": "^14.2.0",
     "boom": "^7.3.0",
