@@ -196,6 +196,7 @@ client.on("message", async msg => {
         prefix +
         "patreon`"
     );
+    
     //COMANDS : SETUP KPOP
   } else if (
     msg.content.toLocaleLowerCase() === prefix + "setup kpop" ||
@@ -207,6 +208,7 @@ client.on("message", async msg => {
         prefix +
         "patreon`"
     );
+    
     //COMANDS : SETUP JPOP
   } else if (
     msg.content.toLocaleLowerCase() === prefix + "setup jpop" ||
