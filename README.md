@@ -33,10 +33,10 @@
 **You want to have additional features, Support me on [Patreon](https://www.patreon.com/discordanime).**
 
 ## Special Thanks
-1. **[hanahaneul](https://github.com/hanahaneull)**
-1. **[Discord JS](https://discord.js.org/)**
-1. **[Ruri](https://github.com/KurokuTetsuya/)**
-1. **All Patreon Support**
+1. **[hanahaneul] - Developer**
+**[Github](https://github.com/hanahaneull) - [Website](https://kontol.monster)**
+1. **[Ruri] - Contributor**
+**[Github](https://github.com/KurokuTetsuya) - [Website](https://fatir.xyz)**
 
 ## Self-hosting
 **This code is for reference-only and most of it is not up-to-date. This is not functional and we do not offer any support for self-hosting.**
