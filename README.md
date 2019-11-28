@@ -20,9 +20,7 @@
 
 **NSFW Pictures**
 
-**[Lewd Anime](./assets/lewdanime.PNG)**
-
-**[NSFW](./assets/nsfw.PNG)**
+**[Lewd Anime](./assets/lewdanime.PNG) - [NSFW](./assets/nsfw.PNG)**
 
 ## Invite
 **Just [click this link](https://bit.ly/miyamotobot) and you can add Miyamoto to your server.**
