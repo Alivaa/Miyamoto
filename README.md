@@ -36,7 +36,7 @@
 1. **hanahaneul - Developer**
 
 **[Github](https://github.com/hanahaneull) - [Website](https://kontol.monster)**
-1. **Ruri - Contributor**
+2. **Ruri - Contributor**
 
 **[Github](https://github.com/KurokuTetsuya) - [Website](https://fatir.xyz)**
 
