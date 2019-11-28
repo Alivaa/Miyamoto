@@ -7,15 +7,6 @@ const config = require('./config.json');
 const token = config.token;
 const prefix = config.prefix;
 
-//OWNER USER
-const owner = "";
-
-//DATABASE ADDED
-const databaseadded = "";
-
-//PATREON USER
-const userpatreon = "";
-
 //DISCORD LOGIN
 client.login(token);
 
@@ -23,8 +14,6 @@ client.login(token);
 client.on("ready", () => {
   console.log("Login  : " + client.user.tag);
   console.log("UserID : " + client.user.id);
-  console.log("");
-  console.log("Bot Status Active");
   function statustext() {
     let statusbot = [
       prefix + "help | With friends",
@@ -58,9 +47,9 @@ client.on("message", async msg => {
   ) {
     const embed = new Discord.RichEmbed()
       .setColor("#e047ff")
-      .setAuthor("Miyamoto Help\n", client.user.avatarURL)
+      .setAuthor("Miyamoto Help", client.user.avatarURL)
       .addField(
-        "Commands List\n",
+        "Commands List",
         "**Special Commands**\n" +
           "`" +
           prefix +
@@ -141,13 +130,9 @@ client.on("message", async msg => {
       .setAuthor("Special Thanks", client.user.avatarURL)
       .addField(
         "Support Thanks",
-        "`1.` hanahaneull\n" +
-          "`2.` Discord JS\n" +
-          "`3.` synzen\n" +
-          "`4.` JSIndo\n" +
-          "`5.` All Patreon Donations"
-      )
-      .addField("Patreon Big Thanks", "`1.` Liva");
+          "`1.` hanahaneull\n" +
+          "`2.` Ruri" +
+      );
     msg.channel.send(embed);
 
     //COMMANDS : INVITE
@@ -181,19 +166,6 @@ client.on("message", async msg => {
         msg.channel.id +
         ">"
     );
-    const embed = new Discord.RichEmbed()
-      .setColor("#e047ff")
-      .setTitle("Database Added")
-      .addField("User ID", msg.author.id, true)
-      .addField("Channel ID", msg.channel.id, true)
-      .addField("Server ID", msg.guild.id, true)
-      .addField("Username", msg.author.tag, true)
-      .addField("Channel Name", msg.channel.name, true)
-      .addField("Server Name", msg.guild.name, true)
-      .addField("Owner Name", msg.guild.owner, true)
-      .addField("Owner ID", msg.guild.ownerID, true)
-      .addField("All Member", msg.guild.memberCount, true);
-    databaseadded.send(embed);
 
     //COMMANDS : NOT HAVE PERMISSION
   } else if (
@@ -245,6 +217,5 @@ client.on("message", async msg => {
         prefix +
         "patreon`"
     );
-
   } 
 });
