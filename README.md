@@ -22,7 +22,7 @@
 
 ![Japan Idol](./assets/japan.PNG)
 
-**NSFW **
+**NSFW**
 
 ![NSFW](./assets/nsfw.PNG)
 
