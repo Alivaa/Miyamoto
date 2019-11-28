@@ -18,8 +18,6 @@
 
 ![Japan Idol](./assets/japan.PNG)
 
-**NSFW Pictures**
-
 **[Lewd Anime](./assets/lewdanime.PNG) - [NSFW](./assets/nsfw.PNG)**
 
 ## Invite
