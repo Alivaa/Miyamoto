@@ -4,7 +4,7 @@
 # Pictures
 **Cute Anime**
 
-![Cute Anime](/assets/cuteanime.png)
+![Cute Anime](./master/assets/cuteanime.png)
 
 ## Invite
 **Just [click this link](https://bit.ly/miyamotobot) and you can add Miyamoto to your server.**
