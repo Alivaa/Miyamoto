@@ -2,19 +2,19 @@
 **Miyamoto is a discord bot that has functions for autoposting of images. We will also continue to add and develop features over time.**
 
 ## Pictures Posting
-**Cute Anime**
+* **Cute Anime**
 
 ![Cute Anime](./assets/cuteanime.PNG)
 
-**Memes and Shitposting**
+* **Memes and Shitposting**
 
 ![Memes and Shitposting](./assets/memes.PNG)
 
-**Korea Idol**
+* **Korea Idol**
 
 ![Korea Idol](./assets/korean.PNG)
 
-**Japan Idol**
+* **Japan Idol**
 
 ![Japan Idol](./assets/japan.PNG)
 
