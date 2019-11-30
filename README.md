@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">Miyamoto Discord Bot</h3>
+<h3 align="center"><strong>Miyamoto Discord Bot</strong></h3>
 <p align="center">
   Autoposting Bot Discord
   <br>
