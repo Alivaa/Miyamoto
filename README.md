@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://discord.gg/zGmNyk7">
+    <img src="https://cdn.discordapp.com/attachments/615725565265051648/644519226740178954/80XUb45JeHwvWeaPFYqn3B480fsWbrTjbH0Y3IAJYFjLNAAAAAElFTkSuQmCC.png" alt="Miyamoto Logo" width="72" height="72">
+  </a>
+</p>
+
+
 # Miyamoto Discord Bot
 **Miyamoto is a discord bot that has functions for autoposting of images. We will also continue to add and develop features over time.**
 
