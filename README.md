@@ -7,7 +7,7 @@
 <h3 align="center"><strong>Miyamoto Discord Bot</strong></h3>
 <p align="center">
   <strong>Autoposting Bot Discord</strong>
-  <strong>Anime · Hentai · Memes · K-POP · J-POP · NSFW</strong>
+  <h3 align="center"><strong>Anime · Hentai · Memes · K-POP · J-POP · NSFW</strong></h3>
   <br>
   <a href="https://bit.ly/miyamotobot"><strong>Invite Bot</strong></a>
   ·
