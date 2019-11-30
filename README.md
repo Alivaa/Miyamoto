@@ -8,13 +8,12 @@
 <p align="center">
   Autoposting Bot Discord
   <br>
-  <br>
-  <a href="https://bit.ly/miyamotobot">Invite Bot</a>
+  <a href="https://bit.ly/miyamotobot"><strong>Invite Bot</strong></a>
   ·
-  <a href="https://discord.gg/zGmNyk7">Discord Server</a>
+  <a href="https://discord.gg/zGmNyk7"><strong>Discord Server</strong></a>
   ·
-  <a href="https://www.patreon.com/discordanime">Patreon</a>
-  ·
+  <a href="https://www.patreon.com/discordanime"><strong>Patreon</strong></a>
+  
   </p>
 
 ## Pictures Posting
