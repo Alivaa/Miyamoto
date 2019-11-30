@@ -4,9 +4,18 @@
   </a>
 </p>
 
-
-# Miyamoto Discord Bot
-**Miyamoto is a discord bot that has functions for autoposting of images. We will also continue to add and develop features over time.**
+<h3 align="center">Miyamoto Discord Bot</h3>
+<p align="center">
+  Autoposting Bot Discord
+  <br>
+  <br>
+  <a href="https://bit.ly/miyamotobot">Invite Bot</a>
+  ·
+  <a href="https://discord.gg/zGmNyk7">Discord Server</a>
+  ·
+  <a href="https://www.patreon.com/discordanime">Patreon</a>
+  ·
+  </p>
 
 ## Pictures Posting
 * **Cute Anime**
